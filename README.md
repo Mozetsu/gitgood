@@ -1,4 +1,4 @@
-# gitgood
+# Git good (at it)
 This is a dummy readme file 👽
 
 // Random comment passing by 😆
