@@ -1,6 +1,5 @@
-# Git good (at it)
-This is a dummy readme file 👽
+# Git good (at it) --- [ Danger branch ]
 
-// Random comment passing by 😆
+Warning - You are now in the [ Danger Zone ] 💀
 
-console.log('Test, test, test... ')
+Be sure to know what you are doing 🔴
