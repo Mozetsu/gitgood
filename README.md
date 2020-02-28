@@ -1,6 +1,9 @@
-# Git good (at it)
-This is a dummy readme file 👽
+# Git good (at it) --- [ Feature branch ]
 
-// Random comment passing by 😆
+All features are developed here 💙
 
-console.log('Test, test, test... ')
+[ Features ]
+- scissor // complete
+- paper // work in progress...
+
+... 🚩
