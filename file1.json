@@ -1,6 +1,6 @@
 {
-	"branch": "Master",
-	"Message": "Rock beats scissor",
+	"branch": "master",
+	"message": "rock beats scissor",
 	"emoji": "🤪",
 	"commit": "#1"
 }
